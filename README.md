@@ -1,7 +1,10 @@
 # Bem vindo(a) ao meu perfil
 
-Olá , eu sou o Leonardo Dias
+Olá , eu sou o Leonardo Dias , sou estudante do curso Staart e do cursos One Bit Code
+![labtocat](https://user-images.githubusercontent.com/106618445/173157554-5a315393-b6ab-4b5f-a834-22dfe4a7438e.png)
 
+
+Moro em Belo Horizonte/MG 🌐
 ## Meus Hobbies
 
 - Jogar video game
@@ -21,5 +24,4 @@ Olá , eu sou o Leonardo Dias
 
 - Linkedin : https://www.linkedin.com/in/leonardo-dias-54642264/
 - Twitter : @LeonardoDiasmo6
-- Instagram : @leodias2204
 - E-mail : leonardodmonteiro@hotmail.com
