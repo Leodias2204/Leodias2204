@@ -22,5 +22,6 @@ Moro em Belo Horizonte/MG 🌐
 
 ## Meus Contatos
 
+- Linkedin : https://www.linkedin.com/in/leonardo-dias-54642264/
 - Twitter : @LeonardoDiasmo6
 - E-mail : leonardodmonteiro@hotmail.com
