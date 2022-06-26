@@ -1,6 +1,6 @@
 # Bem vindo(a) ao meu perfil
 
-Olá , eu sou o Leonardo Dias , sou estudante do curso Staart e do cursos One Bit Code
+Olá , eu sou o Leonardo Dias , sou estudante do curso Staart e do curso One Bit Code
 ![labtocat](https://user-images.githubusercontent.com/106618445/173157554-5a315393-b6ab-4b5f-a834-22dfe4a7438e.png)
 
 
