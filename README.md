@@ -26,10 +26,10 @@
 
 ## Meus projetos pessoais
 
-https://my-profile-twhqhia9p-leodias2204.vercel.app/
-https://react-firebase-autentication.vercel.app/login
-https://google-glass-clone.vercel.app/
-https://aprendendo-react-azure.vercel.app/
+https://my-profile-twhqhia9p-leodias2204.vercel.app/  </br>
+https://react-firebase-autentication.vercel.app/login </br>
+https://google-glass-clone.vercel.app/ </br>
+https://aprendendo-react-azure.vercel.app/ </br>
 
 
 Meu email: leonardodmonteiro@hotmail.com
