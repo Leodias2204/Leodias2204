@@ -33,3 +33,6 @@ https://aprendendo-react-azure.vercel.app/ </br>
 
 
 Meu email: leonardodmonteiro@hotmail.com
+
+</br>
+<p align="center"> <img align="center" src="https://profile-counter.glitch.me/Leodias2204/count.svg" /> </p>
