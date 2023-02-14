@@ -26,7 +26,7 @@
 
 ## Meus projetos pessoais
 
-https://my-profile-twhqhia9p-leodias2204.vercel.app/  </br>
+https://my-profile-twhqhia9p-leodias2204.vercel.app/ </br>
 https://react-firebase-autentication.vercel.app/login </br>
 https://google-glass-clone.vercel.app/ </br>
 https://aprendendo-react-azure.vercel.app/ </br>
